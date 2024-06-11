@@ -1,4 +1,5 @@
-👋 Hi there! I'm Patrick, currently studying Computer Engineering at the University of Trento.
+# 👋 Hi there!
+I'm Patrick, currently studying Computer Engineering at the University of Trento.
 
 ## 🌟 About Me
 - 🎓 Computer Engineering Student at University of Trento
