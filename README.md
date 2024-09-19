@@ -1,8 +1,8 @@
 # 👋 Hi there!
-I'm Patrick, currently studying Computer Engineering at the University of Trento.
+I'm Patrick, currently in Barcelona for my first year as a EUmaster4HPC participant.
 
 ## 🌟 About Me
-- 🎓 Computer Engineering Student at University of Trento
+- 🎓 MIRI-HPC Student at Universitat Politecnica de Catalunya
 - 🚀 Enthusiast of High-Performance Computing
 - 💡 Always learning and exploring new technologies
 - 🎮 Table tennis amateur player and Bang! enjoyer
