@@ -14,6 +14,7 @@ I'm actively seeking opportunities to collaborate on CS/HPC projects. If you hav
 - C/C++
 - Python
 - Rust
+- Erlang
 - Unix 
 
 ## 📫 Let's Connect
