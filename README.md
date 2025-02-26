@@ -7,15 +7,13 @@ I'm Patrick, currently in Barcelona for my first year as a EUmaster4HPC particip
 - 💡 Always learning and exploring new technologies
 - 🎮 Table tennis amateur player and Bang! enjoyer
 
-## 🚀 What I'm Looking For
-I'm actively seeking opportunities to collaborate on CS/HPC projects. If you have any, reach me out!
-
 ## 🔧 Technologies & Tools
 - C/C++
 - Python
 - Rust
 - Erlang
-- Unix 
+- Unix
+- Paraver, Perf & Extrae Analysis tools 
 
 ## 📫 Let's Connect
 - [LinkedIn](www.linkedin.com/in/patrick-cerka)
